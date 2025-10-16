@@ -14,5 +14,8 @@
   "dependencies": {
     "prettier": "^3.6.2",
     "stylelint": "^16.25.0"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1"
   }
 }
